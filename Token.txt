@@ -1,0 +1,29 @@
+Token
+
+
+
+ssh -i "C:\Users\imads\Downloads\data_enginering_machine.pem" ubuntu@3.253.15.38
+
+
+----------------------------------------------------------------------------------------
+supprimer 
+docker rmi <IMAGE ID>
+
+docker rmi $(docker images -q)
+
+FastAPI
+Structure de données et stockage
+MongoDB
+ElasticSearch
+Neo4j
+Tests unitaires
+GitLab
+Git/GitHub
+Terraform
+Ansible
+Prometheus & Grafana
+Datadog
+
+
+docker ps
+
